@@ -1,0 +1,2 @@
+- Baixar o ffmpeg ou usar ele pelo docker
+- Executar o 'prepare.sh' para gerar o 'video-ready' que será usado pelo node stream
